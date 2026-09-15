@@ -1,1 +1,50 @@
-a
+--------- Problem 1
+ispisuje sve broje od 1 do 100
+za svaki deljiv sa 3 ispisuje Fizz
+za svaki deljiv sa 5 ispisuje Buzz
+deljiv sa oba ispisuje FizzBuzz
+treba nam promenljiva
+treba nam for petlja za ispisivanje
+treba nam if statement da gleda koji su brojevi deljivi
+treba da ispisuje
+treba da ispisuje 
+za svaki broj od 1 do 100
+if broj je deljiv i sa 3 i sa 5
+	ispisi FizzBuzz
+if broj deljiv samo sa 3
+	ispisi Fizz
+if broj deljiv samo sa 5
+	ispisi Buzz
+	ispisuj brojeve
+else ispisuj brojeve
+1,2,Fizz,4, Buzz, Fizz, 7,8,Fizz, Buzz,11,Fizz,13,14,FizzBuzz
+
+-------- Problem 2
+Ispisuje brojeve od 1 do 50
+ako je deljiv sa 4 ispisi Even  
+ako je deljiv sa 6 ispisi Buzz  
+ako je deljiv sa oba ispisi EvenBuzz
+u ostalom ispisuj brojeve
+za svaki broj od 1 do 50 
+if broj deljiv sa 4 i sa 6 ispisi EvenBuzz
+if else borj deljiv samo sa 4 ispisi Even
+if else broj deljiv samo sa 6 ispisi Buzz
+else inace ispisuj
+treba da se ispisuje
+1,2,3,Even, 5, Buzz, 7,8,9,10,11,EvenBuzz...
+
+-------- Problem 3
+Funkcija koja prima jedan broj n i vrati zbir svih celih brojeva od 1 do tog broja
+1. funkcija prima broj
+2. vraca zbir svih celih brojeva od 1 do n
+3. rucno 1+2+3+4...
+4. for mi omogucava da uradim istu stvar vise puta
+5. cuvacu u tmp variabli
+
+tmp pocinje od neke pocetne vrednosti
+prodji kroz brojeve od 1 do n
+u svakom prolazu:
+  dodaj trenutnu vrednost broju na tmp
+
+na kraju:
+  vrati tmp
